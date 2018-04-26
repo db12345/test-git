@@ -1,1 +1,8 @@
-this is my first text file
+var datalayer = {
+                  event: 'click', 
+		  description: [action: 'click', 
+                                category: 'button', 
+                                label: 'button 1',
+                                isinteraction: 'false']
+                }
+ 
