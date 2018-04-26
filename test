@@ -4,5 +4,17 @@ var datalayer = {
                                 category: 'button', 
                                 label: 'button 1',
                                 isinteraction: 'false']
-                }
+                };
+
+
+var datalayer2 = {
+                  event: 'click', 
+		  description: [action: 'click', 
+                                category: 'button', 
+                                label: 'button 1',
+                                isinteraction: 'false']
+                };
+
+
+
  
